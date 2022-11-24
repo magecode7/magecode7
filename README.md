@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi everyone, my name is Daniil!</h1>
+<h3 align="center">
 
-<!--
-**magecode7/magecode7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My achievements
 
-Here are some ideas to get you started:
+![trophy](https://github-profile-trophy.vercel.app/?username=magecode7&theme=onestar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magecode7&theme=github_dark)
+
+My languages
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=magecode7&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=magecode7&theme=github_dark)
+
+![](https://komarev.com/ghpvc/?username=magecode7&theme=github_dark)  
+
+</h3>
