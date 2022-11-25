@@ -1,6 +1,8 @@
 <h1 align="center">Hi everyone, my name is Daniil!</h1>
 <h3 align="center">
 
+[>My profile site<](https://magecode7.github.io/profile)
+  
 My achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=magecode7&theme=onestar)
